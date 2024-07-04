@@ -1,0 +1,37 @@
+[
+  {
+    "role": "Profesor de natacion",
+    "organisation": "Colonia de vacaciones Rayito de Sol",
+    "startDate": "Estacion Estival 2015",
+    "endDate": "Present",
+    "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "Profesor particular asignaturas tecnicas",
+    "organisation": "freelance",
+    "startDate": "Aug, 2015",
+    "endDate": "Aug, 2022",
+    "experiences": ["Worked on Windows 11", "Designed the control panel"],
+    "imageSrc": "history/microsoft.png"
+  },
+  {
+    "role": "Dibujante Planos Municipales",
+    "organisation": "freelance",
+    "startDate": "Aug, 2015",
+    "endDate": "Aug, 2022",
+    "experiences": ["Worked on Windows 11", "Designed the control panel"],
+    "imageSrc": "history/microsoft.png"
+  },
+  {
+    "role": "",
+    "organisation": "Netflix",
+    "startDate": "Apr, 2020",
+    "endDate": "Jun, 2020",
+    "experiences": [
+      "Worked on component library",
+      "Helped create UI components"
+    ],
+    "imageSrc": "history/netflix.png"
+  }
+]
