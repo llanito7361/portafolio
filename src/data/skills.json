@@ -20,7 +20,16 @@
     "imageSrc": "skills/SQL.png"
   },
   {
+    "title": "GIT",
+    "imageSrc": "skills/git.png"
+  },
+  {
     "title": "Linux",
     "imageSrc": "skills/linux.png"
+  }
+  ,
+  {
+    "title": "PrusaSlicer",
+    "imageSrc": "skills/prusa.png"
   }
 ]

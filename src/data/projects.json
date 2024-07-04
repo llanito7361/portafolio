@@ -1,18 +1,18 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
+    "title": "Virtual Ecommerce",
+    "imageSrc": "projects/ecomerce.png",
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
+    "demo": "https://ecommerce-front-91a8dyt35-llanito7361s-projects.vercel.app/",
     "source": "https://www.github.com"
   },
   {
-    "title": "Project B",
+    "title": "Biblioteca de juegos",
     "imageSrc": "projects/project.png",
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
+    "demo": "https://deploy-ebon-psi.vercel.app/",
     "source": "https://www.github.com"
   },
   {

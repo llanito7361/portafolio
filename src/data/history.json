@@ -18,20 +18,24 @@
   {
     "role": "Dibujante Planos Municipales",
     "organisation": "freelance",
-    "startDate": "Aug, 2015",
-    "endDate": "Aug, 2022",
+    "startDate": "2015",
+    "endDate": "2022",
     "experiences": ["Worked on Windows 11", "Designed the control panel"],
     "imageSrc": "history/microsoft.png"
-  },
-  {
-    "role": "",
-    "organisation": "Netflix",
-    "startDate": "Apr, 2020",
-    "endDate": "Jun, 2020",
-    "experiences": [
-      "Worked on component library",
-      "Helped create UI components"
-    ],
-    "imageSrc": "history/netflix.png"
+  },  {
+    "role": "Vendedor minorista frutiorticola",
+    "organisation": "freelance",
+    "startDate": "2016",
+    "endDate": "2018",
+    "experiences": ["Worked on Windows 11", "Designed the control panel"],
+    "imageSrc": "history/microsoft.png"
+  },  {
+    "role": "Yacare3d servicio de impresiones y modelado 3d",
+    "organisation": "freelance",
+    "startDate": "2023",
+    "endDate": "activo",
+    "experiences": ["Worked on Windows 11", "Designed the control panel"],
+    "imageSrc": "history/microsoft.png"
   }
+ 
 ]
