@@ -29,6 +29,14 @@
   }
   ,
   {
+    "title": "Virtual Box",
+    "imageSrc": "skills/vbox.png"
+  },
+  {
+    "title": "Ingles B2",
+    "imageSrc": "skills/ingles.png"
+  },
+  {
     "title": "PrusaSlicer",
     "imageSrc": "skills/prusa.png"
   }

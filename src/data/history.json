@@ -3,12 +3,12 @@
     "role": "Profesor de natacion",
     "organisation": "Colonia de vacaciones Rayito de Sol",
     "startDate": "Estacion Estival 2015",
-    "endDate": "Present",
+    "endDate": "2022",
     "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
     "imageSrc": "history/google.png"
   },
   {
-    "role": "Profesor particular asignaturas tecnicas",
+    "role": "Profesor particular: Dibujo Tecnico, Sistemas de represntacion, Analisis Matematico II y III, Fisica 1 y Fisicas 2 tecnicas",
     "organisation": "freelance",
     "startDate": "Aug, 2015",
     "endDate": "Aug, 2022",

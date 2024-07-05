@@ -2,25 +2,17 @@
   {
     "title": "Virtual Ecommerce",
     "imageSrc": "projects/ecomerce.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "description": "Segundo proyecto integrador comercio virtual de indumentaria, buscando integrar tecnologias nuevas en una app responsive de mayor complejidad, embergadura y dificultad.",
+    "skills": ["React", "Redux", "Express", "Node", "MongoDB"],
     "demo": "https://ecommerce-front-91a8dyt35-llanito7361s-projects.vercel.app/",
-    "source": "https://www.github.com"
+    "source": "https://github.com/llanito7361/ecommerce-front"
   },
   {
     "title": "Biblioteca de juegos",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
+    "imageSrc": "projects/PI.png",
+    "description": "Primer proyecto integrador de tecnologias back y frontend del stack PERN, app responsive propuesta por de SoyHenry.",
+    "skills": ["React", "Redux", "Express", "Node", "PostgreSQL"],
     "demo": "https://deploy-ebon-psi.vercel.app/",
-    "source": "https://www.github.com"
-  },
-  {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/llanito7361/deploy-pi-videogames"
   }
 ]
