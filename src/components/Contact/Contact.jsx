@@ -7,8 +7,7 @@ export const Contact = () => {
   return (
     <footer id="contact" className={styles.container}>
       <div className={styles.text}>
-        <h2>Contact</h2>
-        <p>Feel free to reach out!</p>
+        <h2>Contactame</h2>
       </div>
       <ul className={styles.links}>
         <li className={styles.link}>
