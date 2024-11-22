@@ -12,7 +12,7 @@
     "imageSrc": "projects/PI.png",
     "description": "Primer proyecto integrador de tecnologias back y frontend del stack PERN, app responsive propuesta por de SoyHenry.",
     "skills": ["React", "Redux", "Express", "Node", "PostgreSQL"],
-    "demo": "https://cliente-pi-six.vercel.app/",
+    "demo": "https://cliente-pi-six.vercel.app",
     "source": "https://github.com/llanito7361/clientePI"
   }
 ]
