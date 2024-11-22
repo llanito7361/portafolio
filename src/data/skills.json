@@ -10,6 +10,9 @@
   {
     "title": "React",
     "imageSrc": "skills/react.png"
+  },{
+    "title": "Vue",
+    "imageSrc": "skills/vue.png"
   },
   {
     "title": "Node",
