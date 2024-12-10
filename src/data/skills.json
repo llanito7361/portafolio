@@ -10,7 +10,12 @@
   {
     "title": "React",
     "imageSrc": "skills/react.png"
-  },{
+  },
+  {
+    "title": "Nextjs",
+    "imageSrc": "skills/nextjs.png"
+  } ,
+  {
     "title": "Vue",
     "imageSrc": "skills/vue.png"
   },

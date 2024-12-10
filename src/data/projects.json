@@ -6,7 +6,7 @@
     "skills": ["React", "Redux", "Express", "Node", "MongoDB"],
     "demo": "https://ecommerce-front-91a8dyt35-llanito7361s-projects.vercel.app/",
     "source": "https://github.com/llanito7361/ecommerce-front"
-  },
+  },,
   {
     "title": "Biblioteca de juegos",
     "imageSrc": "projects/PI.png",
@@ -14,5 +14,13 @@
     "skills": ["React", "Redux", "Express", "Node", "PostgreSQL"],
     "demo": "https://cliente-pi-six.vercel.app",
     "source": "https://github.com/llanito7361/clientePI"
+  },
+  {
+    "title": "Nautica Ajere Ysyrype",
+    "imageSrc": "projects/nautica.png",
+    "description": "Landing page para Nautica Local",
+    "skills": ["React", "Nextjs","Vite",  "Node" ],
+    "demo": "https://nautica-ajere-ysyripe.vercel.app/",
+    "source": "https://github.com/llanito7361/nautica-ajere-ysyripe"
   }
 ]
