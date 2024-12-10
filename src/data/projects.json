@@ -8,19 +8,19 @@
     "source": "https://github.com/llanito7361/ecommerce-front"
   }, 
   {
-    "title": "Biblioteca de juegos",
-    "imageSrc": "projects/PI.png",
-    "description": "Primer proyecto integrador de tecnologias back y frontend del stack PERN, app responsive propuesta por de SoyHenry.",
-    "skills": ["React", "Redux", "Express", "Node", "PostgreSQL"],
-    "demo": "https://cliente-pi-six.vercel.app",
-    "source": "https://github.com/llanito7361/clientePI"
-  },
-  {
     "title": "Nautica Ajere Ysyrype",
     "imageSrc": "projects/nautica.png",
     "description": "Landing page para Nautica Local",
     "skills": ["React", "Nextjs","Vite",  "Node" ],
     "demo": "https://nautica-ajere-ysyripe.vercel.app/",
     "source": "https://github.com/llanito7361/nautica-ajere-ysyripe"
+  },
+  {
+    "title": "Biblioteca de juegos",
+    "imageSrc": "projects/PI.png",
+    "description": "Primer proyecto integrador de tecnologias back y frontend del stack PERN, app responsive propuesta por de SoyHenry.",
+    "skills": ["React", "Redux", "Express", "Node", "PostgreSQL"],
+    "demo": "https://cliente-pi-six.vercel.app",
+    "source": "https://github.com/llanito7361/clientePI"
   }
 ]
