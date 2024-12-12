@@ -1,0 +1,8 @@
+  {
+    "title": "Nautica Ajere Ysyrype",
+    "imageSrc": "projects/nautica.png",
+    "description": "Landing page para Nautica Local",
+    "skills": ["React", "Nextjs","Vite",  "Node" ],
+    "demo": "https://nautica-ajere-ysyripe.vercel.app/",
+    "source": "https://github.com/llanito7361/nautica-ajere-ysyripe"
+  }, contenido del landing page papucho  
